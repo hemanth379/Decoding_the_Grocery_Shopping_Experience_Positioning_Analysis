@@ -100,11 +100,11 @@ The questionnaire covered various attributes such as budget-friendliness, eco-co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/hemanth379/Decoding_the_Grocery_Shopping_Experience_Positioning_Analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repository-name
+   cd Decoding_the_Grocery_Shopping_Experience_Positioning_Analysis
    ```
 3. Review the survey data in the `data` folder and read the findings in the `reports` folder.
 
