@@ -1,0 +1,2 @@
+# Decoding_the_Grocery_Shopping_Experience_Positioning_Analysis
+This project analyzes consumer perceptions and brand positioning in the grocery market, comparing Whole Foods, Costco, Target, and Trader Joe's. Using Enginius software and survey responses from 70 participants, the project highlights key insights on affordability, sustainability, convenience, and offers actionable marketing recommendations.
